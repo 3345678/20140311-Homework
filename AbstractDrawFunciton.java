@@ -2,7 +2,7 @@ import java.awt.Graphics;
 import java.awt.Polygon;
 
 import javax.swing.JPanel;
-
+//A abstract class that the question provide.
 public abstract class AbstractDrawFunction extends JPanel {
 
 	private Polygon p = new Polygon();

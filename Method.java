@@ -1,3 +1,5 @@
+
+//class for all method the question ask
 public class Method {
 
 	double geta(double x) {

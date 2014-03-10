@@ -1,8 +1,12 @@
 import java.util.Scanner;
 
+// Main Class
 public class TestFunction extends Function {
+        // Main method and inheritance the Function
 	public static void main(String arg[]) {
+                // Scanner for input the number.
 		Scanner input = new Scanner(System.in);
+                // Create the Method class and Function class
 		Method Haha = new Method();
 		Function Hoho = new Function();
 
